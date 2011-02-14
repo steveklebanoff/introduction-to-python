@@ -1,0 +1,4 @@
+# Operators
+* Standard math operators
+* 'not', 'or'
+* 'in'

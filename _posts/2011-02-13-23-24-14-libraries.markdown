@@ -1,0 +1,3 @@
+# Standard library
+* Tons of powerful libraries included
+* http://www.doughellmann.com/PyMOTW/

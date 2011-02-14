@@ -1,0 +1,7 @@
+# Why use it?
+* "Pythonic" way of doing things extremely readable, easy to understand, "elegant", "clean"
+* Readability and quality of code much higher standard than PHP
+* Great documentation and community, consistent and clear naming standards (PHP: isset, is_array, isPublic, wtf?)
+* Large amount of libraries
+* Concentrate on the problem, not on the syntax
+* Portable, Extensible

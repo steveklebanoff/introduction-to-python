@@ -1,0 +1,6 @@
+# First steps
+* Using the interpreter
+    * Great for trying things out, quicker than editing a file
+    * Can be extended (i.e. Django)
+* Using a file
+* Running a file, and continuing in exection mode

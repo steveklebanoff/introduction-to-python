@@ -1,0 +1,4 @@
+# Modules and namespaces
+* Why are namespaces important?
+* greetings.py, waiter.py
+* Using the dir function

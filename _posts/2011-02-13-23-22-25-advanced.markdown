@@ -1,0 +1,3 @@
+# Advanced objects
+* Lists
+* Associative arrays, i.e. 'dictionary'

@@ -1,0 +1,4 @@
+# Python: An Introduction
+* by Steve Klebanoff
+* steve.klebanoff@gmail.com
+* shttp://www.headynation.com

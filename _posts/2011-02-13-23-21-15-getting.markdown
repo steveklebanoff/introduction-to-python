@@ -1,0 +1,4 @@
+# Getting python
+* Python 3 vs 2
+* If you're on Windows, http://www.python.org/download/
+* Quick tasks, online shell http://shell.appspot.com or https://languageshells.appspot.com/
