@@ -1,5 +1,5 @@
 # Introduction
 * Created in late 80's by Guido van Rossum (BDFL)
-* ![Guido](images/guido.jpg "Guido van Rossum")  
+* ![Guido](http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/200px-Guido_van_Rossum_OSCON_2006.jpg "Guido van Rossum")  
 * Python's 'design philosophy emphasizes code readability', aims to combine 'remarkable power with very clear syntax'
 * "Pythonic" way of doing things. "There should be one— and preferably only one —obvious way to do it."

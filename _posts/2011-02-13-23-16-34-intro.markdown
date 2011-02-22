@@ -1,4 +1,5 @@
 # Python: An Introduction
 * by Steve Klebanoff
 * steve.klebanoff@gmail.com
-* shttp://www.headynation.com
+* presentation: http://steveklebanoff.github.com/introduction-to-python/
+* code examples: https://github.com/steveklebanoff/introduction-to-python
