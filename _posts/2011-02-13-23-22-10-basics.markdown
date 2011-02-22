@@ -1,5 +1,4 @@
 # Basics: Strings and Variables
-* Variables are dynamically typed
 * Everything is an object, even numbers and strings
 * Limit one logical line on each physical line
 * Whitespace is important

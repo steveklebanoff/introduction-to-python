@@ -1,3 +1,0 @@
-# The use of Python
-* Popular use cases
-* Web Frameworks: Django, Pylons, TurboGears, web2py

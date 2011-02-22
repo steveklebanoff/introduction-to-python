@@ -1,4 +1,4 @@
-# First steps
+# Running a script
 * Using the interpreter
 * Great for trying things out, quicker than editing a file
 * Can be extended (i.e. Django)
