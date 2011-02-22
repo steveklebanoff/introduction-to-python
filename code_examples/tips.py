@@ -21,6 +21,5 @@ print filter(lambda x: is_good_tip(x[0], x[1]), bills_and_tips)
 # Compared to..
 good_bills = []
 for total in bills:
-    if total > 50:
-        good_bills.append(get_good_tip(total))
+    good_bills.append(get_good_tip(total))
 print good_bills
