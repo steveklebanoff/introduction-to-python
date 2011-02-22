@@ -5,6 +5,9 @@ def get_good_tip(total):
 bills = [100, 25, 45]
 print map(get_good_tip, bills)
 
+# Using list comprehensions
+print [get_good_tip(total) for total in bills]
+
 # Using lambda
 print map(lambda total: total + (total * 0.2), bills)
 
@@ -14,9 +17,6 @@ def is_good_tip(total, total_with_tip):
 
 bills_and_tips = [(100, 125), (100, 115), (100, 135)]
 print filter(lambda x: is_good_tip(x[0], x[1]), bills_and_tips)
-
-# Using list comprehensions
-print [get_good_tip(total) for total in bills if total > 50]
 
 # Compared to..
 good_bills = []

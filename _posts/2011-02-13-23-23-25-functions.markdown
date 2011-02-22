@@ -1,6 +1,6 @@
 # Functions
 * It's simple, just use def
 * Default parameters, keyword parameters
-* Can take in an arbitrary amount of paramters
+* Can take in an arbitrary amount of parameters
 * Can return multiple items
 * table_information.py

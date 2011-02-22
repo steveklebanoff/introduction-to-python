@@ -1,5 +1,5 @@
 # Control statements
 * if, elif
 * for (each)
-* Putting it together: guess.py
-* Combined: guestlist.py
+* guess.py
+* guestlist.py

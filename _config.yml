@@ -1,8 +1,9 @@
-title: change title
-author: change author
-email: change email
-venue: change venue
-date: change date
+title: introduction to python
+author: steve klebanoff
+email: steve.klebanoff@gmail.com
+venue: rubys inn
+date: 02/21/2011
 
 auto: on
 pygments: true
+markdown: rdiscount

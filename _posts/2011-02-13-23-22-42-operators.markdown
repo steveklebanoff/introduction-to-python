@@ -1,4 +1,6 @@
 # Operators
 * Standard math operators
 * 'not', 'or'
+* `` (x > 5) and (x < 10) ``
 * 'in'
+* `` name in ['steve', 'john', 'breanna'] ``

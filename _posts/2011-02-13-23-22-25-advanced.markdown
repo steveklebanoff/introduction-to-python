@@ -1,3 +1,8 @@
 # Advanced objects
-* Lists
-* Associative arrays, i.e. 'dictionary'
+* Tuples
+* ``coords = (32.53, 12.52)``
+* List
+* ``names = ['Steve', 'Breanna', 'Jack']``
+* Dictionaries (i.e. associative array, hash)
+* ``{'Steve' : 'Table 1',
+     'Breanna' : 'Table 2'}``

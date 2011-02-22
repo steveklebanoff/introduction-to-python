@@ -1,4 +1,4 @@
-names = ('Steve', 'John', 'Jack', 'Breanna')
+names = ['Steve', 'John', 'Jack', 'Breanna']
 
 name_to_check = raw_input('Enter a name: ')
 

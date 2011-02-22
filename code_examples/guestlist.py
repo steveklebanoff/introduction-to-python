@@ -1,4 +1,4 @@
-vips = ('Steve', 'Breanna')
+vips = ['Steve', 'Breanna']
 tables =   {'Steve' : 'Table 1',
             'Breanna' : 'Table 3',
             'Jack' : 'Table 2'}
