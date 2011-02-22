@@ -1,0 +1,3 @@
+# Further Reading
+* A Byte of Python http://www.swaroopch.com/notes/Python
+* Dive into Python http://diveintopython.org/
