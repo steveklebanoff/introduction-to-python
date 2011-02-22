@@ -8,6 +8,3 @@ print "Hello" "World"
 # Formatting strings
 name = "steve"
 print "My name is %s" % (name)
-
-# Get all functions of a string
-print dir(name)
